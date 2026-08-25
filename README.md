@@ -1,17 +1,17 @@
 <!-- ========================= HERO ========================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=0,2,12,20,30&text=ABDULLAH%20SHAHID&fontColor=00e5ff&fontSize=56&fontAlignY=40&desc=%E2%9A%A1%20Backend%20Architect%20%C2%B7%20DevOps%20Operator%20%C2%B7%20Cloud%20Engineer%20%E2%9A%A1&descAlignY=62&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://raw.githubusercontent.com/abdullah-540/abdullah-540/main/header.svg" alt="Abdullah Shahid"/>
 
-<a href="mailto:abdullah.shahid.021001@gmail.com"><img src="https://img.shields.io/badge/-Senior_Backend-00e5ff?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=00e5ff"/></a>
-<img src="https://img.shields.io/badge/-4%2B_Years_XP-a855f7?style=for-the-badge&labelColor=0d1117&logo=stackoverflow&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/-Lahore_PK-00ff9f?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=00ff9f"/>
+<a href="mailto:abdullah.shahid.021001@gmail.com"><img src="https://img.shields.io/badge/-Senior_Backend-a855f7?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=a855f7"/></a>
+<img src="https://img.shields.io/badge/-4%2B_Years_Experience-ec4899?style=for-the-badge&labelColor=0d1117&logo=stackoverflow&logoColor=ec4899"/>
+<img src="https://img.shields.io/badge/-Lahore_PK-f97316?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=f97316"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=I+build+systems+that+don't+fall+over.;FastAPI+%2B+Django+%2B+Kubernetes+%3D+%E2%9D%A4%EF%B8%8F;Real-time+%C2%B7+Observability+%C2%B7+CI%2FCD;From+architecture+to+3AM+on-call.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=700&color=EC4899&center=true&vCenter=true&width=900&height=70&lines=I+build+systems+that+don't+fall+over.;FastAPI+%2B+Django+%2B+Kubernetes+%3D+%E2%9D%A4%EF%B8%8F;Real-time+%C2%B7+Observability+%C2%B7+CI%2FCD;From+architecture+to+3AM+on-call.)](https://git.io/typing-svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
 
 </div>
 
@@ -32,7 +32,7 @@ Welcome back, Senior Backend Engineer.
 ```
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
 </div>
 
 <!-- ========================= ARSENAL ========================= -->
@@ -59,7 +59,7 @@ Welcome back, Senior Backend Engineer.
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
 
 </div>
 
@@ -87,7 +87,7 @@ Welcome back, Senior Backend Engineer.
 > Real-time features (WebSockets, Django Channels) + Pytest/Unittest test coverage.
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
 </div>
 
 <!-- ========================= SHIPPED ========================= -->
@@ -113,7 +113,7 @@ Welcome back, Senior Backend Engineer.
 `FastAPI` `Django` `PostgreSQL` `MySQL` `Redis` `AWS` &nbsp;→&nbsp; rentals, office ops & restaurant mgmt: auth, inventory, scheduling, reservations.
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
 </div>
 
 <!-- ========================= STATS ========================= -->
@@ -121,10 +121,10 @@ Welcome back, Senior Backend Engineer.
 
 ## 📊 THE NUMBERS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullah-540&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=a855f7&text_color=c9d1d9&count_private=true"/>
-<img width="40%" src="https://streak-stats.demolab.com?user=abdullah-540&theme=radical&hide_border=true&background=0d1117&ring=00e5ff&fire=a855f7&currStreakLabel=00e5ff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullah-540&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=f97316&text_color=c9d1d9&count_private=true"/>
+<img width="40%" src="https://streak-stats.demolab.com?user=abdullah-540&theme=radical&hide_border=true&background=0d1117&ring=ec4899&fire=f97316&currStreakLabel=ec4899"/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-540&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-540&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
 
@@ -137,7 +137,7 @@ Welcome back, Senior Backend Engineer.
 
 ## 📈 ACTIVITY PULSE
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-540&theme=react-dark&bg_color=0d1117&color=00e5ff&line=a855f7&point=ffffff&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-540&theme=react-dark&bg_color=0d1117&color=ec4899&line=f97316&point=ffffff&hide_border=true&area=true"/>
 
 </div>
 
@@ -152,7 +152,7 @@ Welcome back, Senior Backend Engineer.
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdullah-540/abdullah-540/output/snake-dark.svg"/>
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
 
 </div>
 
@@ -161,14 +161,12 @@ Welcome back, Senior Backend Engineer.
 
 ## 📡 LET'S BUILD SOMETHING
 
-<a href="mailto:abdullah.shahid.021001@gmail.com"><img src="https://img.shields.io/badge/Email_Me-00e5ff?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117"/></a>
+<a href="mailto:abdullah.shahid.021001@gmail.com"><img src="https://img.shields.io/badge/Email_Me-ec4899?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117"/></a>
 
 <sub>📍 Lahore, Pakistan · ⚡ open to backend & infra challenges</sub>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abdullah-540&style=for-the-badge&color=00e5ff&label=VISITORS&labelColor=0d1117"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&section=footer&height=140&color=gradient&customColorList=0,2,12,20,30"/>
+<img src="https://komarev.com/ghpvc/?username=abdullah-540&style=for-the-badge&color=ec4899&label=VISITORS&labelColor=0d1117"/>
 
 </div>
