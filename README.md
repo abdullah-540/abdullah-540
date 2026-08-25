@@ -1,146 +1,179 @@
+<!-- ============ HERO ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Abdullah%20Shahid&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Senior%20Backend%20Developer%20%7C%20DevOps%20%26%20Cloud%20Infrastructure&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=0,2,12,20,30&text=ABDULLAH%20SHAHID&fontColor=00e5ff&fontSize=54&fontAlignY=40&desc=%3E%20Backend%20Architect%20//%20DevOps%20Operator%20//%20Cloud%20Engineer&descAlignY=62&descSize=18&animation=fadeIn"/>
 
-<a href="mailto:abdullah.shahid.021001@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<!-- STATUS BAR -->
+<img src="https://img.shields.io/badge/CLASS-Senior_Backend-00e5ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/XP-4%2B_Years-a855f7?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/REGION-Lahore_PK-00ff9f?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STATUS-⚡_Online-facc15?style=flat-square&labelColor=0d1117"/>
 
-<br/>
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=4%2B+years+building+production+backend+systems;FastAPI+%2B+Django+%2B+Kubernetes;Real-time+systems%2C+observability%2C+CI%2FCD;Owning+features+from+architecture+to+on-call)](https://git.io/typing-svg)
+```ansi
+[36m╔══════════════════════════════════════════════════════════════╗[0m
+[36m║[0m   [93m>[0m Compiling production systems...                    [92m[ OK ][0m  [36m║[0m
+[36m║[0m   [93m>[0m Scaling Kubernetes cluster...                      [92m[ OK ][0m  [36m║[0m
+[36m║[0m   [93m>[0m Deploying observability stack...                   [92m[ OK ][0m  [36m║[0m
+[36m║[0m   [93m>[0m Player "Abdullah" has entered the arena.           [92m[ ⚡ ][0m  [36m║[0m
+[36m╚══════════════════════════════════════════════════════════════╝[0m
+```
 
-<img src="https://komarev.com/ghpvc/?username=abdullah-shahid&style=for-the-badge&color=2563eb&label=Profile+Views"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+I+build+systems+that+don't+fall+over.;%3E+FastAPI+%2B+Django+%2B+Kubernetes+%3D+%E2%9D%A4%EF%B8%8F;%3E+Real-time%2C+observability%2C+CI%2FCD.;%3E+From+architecture+to+3AM+on-call.)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+<!-- ============ PLAYER CARD ============ -->
+## `01.` PLAYER PROFILE
 
-## About Me
+> **Senior Python backend + DevOps engineer.** 4+ years shipping production systems end-to-end — API design, real-time messaging, Kubernetes infra, observability, and CI/CD. I design secure high-throughput REST services, wire up K8s autoscaling + load balancing, and build ELK / Prometheus / Grafana pipelines that keep things alive at scale. Remote-first, async, and happy owning a feature from architecture all the way to on-call.
 
-Senior Python backend developer and DevOps engineer with 4+ years building and scaling production systems end-to-end — from API design and real-time messaging to Kubernetes infrastructure, observability, and CI/CD. I've designed secure, high-throughput RESTful services, implemented Kubernetes-native autoscaling and load balancing, and built monitoring pipelines (ELK, Prometheus, Grafana) that keep systems reliable at scale. Comfortable working async with distributed, remote-first teams and owning a feature from architecture through deployment and on-call monitoring.
+```yaml
+current_mission: "Leading FBR e-invoicing integration @ Crypthon Technologies"
+loadout:         [ FastAPI, Kubernetes, PostgreSQL, Prometheus ]
+weakness:        "can't say no to a well-designed API"
+```
 
-<br/>
-
-## Tech Stack
+<!-- ============ SKILL TREE ============ -->
+## `02.` SKILL TREE
 
 <div align="center">
 
-**Languages**
+`⚔️ CORE`
 <br/>
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask"/>
 
-**Backend Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask"/>
-
-**Databases**
+`🗄️ DATA VAULTS`
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
 
-**Cloud & Infrastructure**
+`☁️ CLOUD & FORGE`
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,kubernetes,docker,nginx,jenkins"/>
 
-**Monitoring & Observability**
+`📡 RADAR (Observability)`
 <br/>
 <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,kibana"/>
 
-**Tools**
+`🧰 UTILITY BELT`
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,selenium"/>
 
 </div>
 
-**Also working with:** Django Channels · WebSockets · Celery · Twilio · JWT/OAuth2/RBAC · HAProxy · PgBouncer · Apache JMeter · Pandas
+<div align="center">
+<sub><code>PASSIVE SKILLS:</code> Django Channels · WebSockets · Celery · Twilio · JWT/OAuth2/RBAC · HAProxy · PgBouncer · Apache JMeter · Pandas</sub>
+</div>
 
-<br/>
+<!-- ============ CAMPAIGN LOG ============ -->
+## `03.` CAMPAIGN LOG
 
-## Experience
+```diff
+@@ Senior Python Developer — Crypthon Technologies @@  [Feb 2025 → NOW]
++ Owns end-to-end K8s infra: HPA autoscaling, resource limits, HAProxy/Nginx ingress
++ Built Prometheus + Grafana + ELK observability stack
++ Shipped real-time chat/notifications (WebSockets, Firebase) + Jenkins CI/CD
+! BOSS FIGHT: leading FBR e-invoicing + tax-compliance integration
 
-**Senior Python Developer** — Crypthon Technologies · *Feb 2025 – Present*
-Owning end-to-end Kubernetes infrastructure (HPA autoscaling, resource limits, HAProxy/Nginx ingress), a Prometheus + Grafana + ELK observability stack, real-time chat/notifications (WebSockets, Firebase), and CI/CD via Jenkins. Currently leading FBR e-invoicing integration for tax-compliance workflows.
+@@ Senior Back-End Developer — Enigmatix Pvt Ltd @@      [Aug 2024 → Jan 2025]
++ OAuth2/JWT auth across Django + FastAPI; optimized queries & pagination
 
-**Senior Back-End Developer** — Enigmatix Pvt Ltd · *Aug 2024 – Jan 2025*
-Integrated OAuth2/JWT auth across Django and FastAPI services; optimized queries and pagination for large datasets.
+@@ Back-End Developer — Enigmatix Pvt Ltd @@             [Jul 2023 → Aug 2024]
++ REST APIs w/ DRF + FastAPI; Redis caching + async throughput gains
 
-**Back-End Developer** — Enigmatix Pvt Ltd · *Jul 2023 – Aug 2024*
-Built RESTful APIs with DRF and FastAPI; implemented Redis caching and async request handling to boost throughput on high-traffic endpoints.
+@@ Associate Back-End Developer — Enigmatix Pvt Ltd @@   [Jun 2022 → Jul 2023]
++ Real-time features (WebSockets, Django Channels) + Pytest/Unittest coverage
+```
 
-**Associate Back-End Developer** — Enigmatix Pvt Ltd · *Jun 2022 – Jul 2023*
-Built real-time features with WebSockets and Django Channels; automated testing with Pytest/Unittest.
-
-<br/>
-
-## Selected Projects
+<!-- ============ QUEST LOG ============ -->
+## `04.` QUEST LOG — SHIPPED
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**OMC Solutions — Fuel Management System**
-Secure RESTful APIs for inventory, stock, and nozzle-reading across multiple stations, with JWT-based RBAC and real-time alerts.
-`FastAPI` `PostgreSQL` `Firebase` `AWS S3` `JWT`
+**⛽ OMC Solutions** · Fuel Management
+Multi-station inventory, stock & nozzle APIs. JWT-based RBAC + real-time alerts.
+<br/>`FastAPI` `PostgreSQL` `Firebase` `AWS S3` `JWT`
 
-**Laen Daen — Digital Wallet & Khata**
-Transaction and wallet-tracking APIs with encrypted financial data, JWT auth/RBAC, and an integrated eCommerce module.
-`FastAPI` `PostgreSQL` `Firebase` `JWT`
+**💰 Laen Daen** · Digital Wallet & Khata
+Wallet/transaction APIs, encrypted financial data, JWT/RBAC + eCommerce module.
+<br/>`FastAPI` `PostgreSQL` `Firebase` `JWT`
 
 </td>
 <td valign="top" width="50%">
 
-**Hunger Delights — Multi-Restaurant Ordering**
-APIs for service hours, order processing, delivery, and group-order location tracking.
-`FastAPI` `PostgreSQL` `Firebase` `AWS S3`
+**🍔 Hunger Delights** · Multi-Restaurant Ordering
+Service hours, orders, delivery & group-order location tracking.
+<br/>`FastAPI` `PostgreSQL` `Firebase` `AWS S3`
 
-**Duty Free — Cross-Location Item Exchange**
-Order/tracking/reward services with JWT-secured transaction flows and role-based permissions.
-`FastAPI` `PostgreSQL` `Firebase` `JWT`
+**🛒 Duty Free** · Cross-Location Exchange
+Order/tracking/reward services, JWT-secured flows + role-based perms.
+<br/>`FastAPI` `PostgreSQL` `Firebase` `JWT`
 
 </td>
 </tr>
 </table>
 
-**RentAround, Office & Restaurant Management Systems** — RESTful platforms covering rentals, office operations, and restaurant management: auth, inventory, scheduling, and reservations.
-`FastAPI` `Django` `PostgreSQL` `MySQL` `Redis` `AWS`
+<div align="center">
+<sub><b>🏢 RentAround, Office & Restaurant Systems</b> — rentals, office ops & restaurant mgmt: auth, inventory, scheduling, reservations · <code>FastAPI · Django · PostgreSQL · MySQL · Redis · AWS</code></sub>
+</div>
 
-<br/>
-
-## GitHub Stats
+<!-- ============ STATS HUD ============ -->
+## `05.` STATS // HUD
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullah-shahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=abdullah-shahid&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdullah-540&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=a855f7&text_color=c9d1d9&count_private=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-540&theme=radical&hide_border=true&background=0d1117&ring=00e5ff&fire=a855f7&currStreakLabel=00e5ff" height="170"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-shahid&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-540&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8" height="150"/>
 
 </div>
 
-<br/>
-
-## Education & Awards
-
-- **B.S. Software Engineering** — Islamia University of Bahawalpur, Pakistan (GPA: 3.5)
-- 🏆 **Rising Star Award** — Enigmatix Pvt Ltd
-
-<br/>
-
-## Let's Connect
+<!-- ============ TROPHY CASE ============ -->
+## `06.` TROPHY CASE
 
 <div align="center">
 
-| | |
-|---|---|
-| ✉️ Email | abdullah.shahid.021001@gmail.com |
-| 📍 Location | Lahore, Pakistan |
-| 📱 Phone | +92 324 5654540 |
+<img src="https://github-profile-trophy.vercel.app/?username=abdullah-540&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
-<br/>
+<!-- ============ ACTIVITY ============ -->
+## `07.` ACTIVITY FEED
 
 <div align="center">
-<sub>⭐ Open to interesting backend & infrastructure problems — feel free to reach out.</sub>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-540&theme=react-dark&bg_color=0d1117&color=00e5ff&line=a855f7&point=ffffff&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<!-- ============ SNAKE ============ -->
+## `08.` 🐍 SNAKE.EXE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abdullah-540/abdullah-540/output/snake-dark.svg"/>
+
+<sub>⚠️ this only animates once you add the GitHub Action (instructions came with this file)</sub>
+
+</div>
+
+<!-- ============ CONTACT ============ -->
+## `09.` OPEN A CHANNEL
+
+<div align="center">
+
+<a href="mailto:abdullah.shahid.021001@gmail.com"><img src="https://img.shields.io/badge/EMAIL-abdullah.shahid.021001@gmail.com-00e5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+
+<sub>📍 Lahore, Pakistan &nbsp;·&nbsp; ⚡ open to backend & infra quests</sub>
+
 <br/><br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06b6d4,50:2563eb,100:0f172a"/>
+
+<img src="https://komarev.com/ghpvc/?username=abdullah-540&style=for-the-badge&color=00e5ff&label=PLAYERS+SPOTTED&labelColor=0d1117"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&section=footer&height=120&color=gradient&customColorList=0,2,12,20,30"/>
+
 </div>
