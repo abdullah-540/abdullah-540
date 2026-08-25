@@ -1,5 +1,5 @@
 name: Generate Snake Animation
-
+ 
 on:
   schedule:
     # runs once a day at midnight UTC
@@ -10,10 +10,10 @@ on:
   push:
     branches:
       - main
-
+ 
 permissions:
   contents: write
-
+ 
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -26,7 +26,7 @@ jobs:
           outputs: |
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
-
+ 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
