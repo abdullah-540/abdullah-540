@@ -116,31 +116,6 @@ Welcome back, Senior Backend Engineer.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
 </div>
 
-<!-- ========================= STATS ========================= -->
-<div align="center">
-
-## 📊 THE NUMBERS
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullah-540&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=f97316&text_color=c9d1d9&count_private=true"/>
-<img width="40%" src="https://streak-stats.demolab.com?user=abdullah-540&theme=radical&hide_border=true&background=0d1117&ring=ec4899&fire=f97316&currStreakLabel=ec4899"/>
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-540&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=abdullah-540&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
-
-<!-- ========================= ACTIVITY ========================= -->
-<div align="center">
-
-## 📈 ACTIVITY PULSE
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-540&theme=react-dark&bg_color=0d1117&color=ec4899&line=f97316&point=ffffff&hide_border=true&area=true"/>
-
-</div>
-
 <!-- ========================= SNAKE ========================= -->
 <div align="center">
 
