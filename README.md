@@ -11,16 +11,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=I+build+systems+that+don't+fall+over.;FastAPI+%2B+Django+%2B+Kubernetes+%3D+%E2%9D%A4%EF%B8%8F;Real-time+%C2%B7+Observability+%C2%B7+CI%2FCD;From+architecture+to+3AM+on-call.)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
 
 </div>
 
 <!-- ========================= WHOAMI ========================= -->
-<div align="center">
-
-<img align="right" width="38%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/work/Developer.gif"/>
-
-</div>
 
 ### `~/whoami`
 
@@ -36,10 +31,8 @@ Welcome back, Senior Backend Engineer.
 > motto    : "make it reliable, then make it scale"
 ```
 
-<br clear="both"/>
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
 </div>
 
 <!-- ========================= ARSENAL ========================= -->
@@ -66,47 +59,41 @@ Welcome back, Senior Backend Engineer.
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
 
 </div>
 
 <!-- ========================= JOURNEY ========================= -->
 ## 🚀 THE JOURNEY
 
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 **Senior Python Developer** · **Crypthon Technologies** &nbsp;`Feb 2025 → now`
 > Owns end-to-end Kubernetes infra — HPA autoscaling, resource limits, HAProxy/Nginx ingress. Built the Prometheus + Grafana + ELK observability stack and real-time chat/notifications (WebSockets, Firebase). **Currently leading FBR e-invoicing integration.**
 
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img align="left" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
 
 **Senior Back-End Developer** · **Enigmatix** &nbsp;`Aug 2024 → Jan 2025`
 > OAuth2/JWT auth across Django + FastAPI, plus query & pagination optimization for large datasets.
 
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img align="left" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 
 **Back-End Developer** · **Enigmatix** &nbsp;`Jul 2023 → Aug 2024`
 > REST APIs with DRF + FastAPI, Redis caching, and async request handling for high-traffic endpoints.
 
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+<img align="left" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
 
 **Associate Back-End Developer** · **Enigmatix** &nbsp;`Jun 2022 → Jul 2023`
 > Real-time features (WebSockets, Django Channels) + Pytest/Unittest test coverage.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
 </div>
 
 <!-- ========================= SHIPPED ========================= -->
 <div align="center">
 
 ## 📦 STUFF I'VE SHIPPED
-
-</div>
-
-<div align="center">
-
-<a href="#"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-540&repo=placeholder&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=a855f7" onerror="this.style.display='none'"/></a>
 
 </div>
 
@@ -126,7 +113,7 @@ Welcome back, Senior Backend Engineer.
 `FastAPI` `Django` `PostgreSQL` `MySQL` `Redis` `AWS` &nbsp;→&nbsp; rentals, office ops & restaurant mgmt: auth, inventory, scheduling, reservations.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
 </div>
 
 <!-- ========================= STATS ========================= -->
@@ -135,7 +122,7 @@ Welcome back, Senior Backend Engineer.
 ## 📊 THE NUMBERS
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullah-540&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=a855f7&text_color=c9d1d9&count_private=true"/>
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-540&theme=radical&hide_border=true&background=0d1117&ring=00e5ff&fire=a855f7&currStreakLabel=00e5ff"/>
+<img width="40%" src="https://streak-stats.demolab.com?user=abdullah-540&theme=radical&hide_border=true&background=0d1117&ring=00e5ff&fire=a855f7&currStreakLabel=00e5ff"/>
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-540&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8"/>
 
@@ -165,7 +152,7 @@ Welcome back, Senior Backend Engineer.
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdullah-540/abdullah-540/output/snake-dark.svg"/>
 </picture>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20,30"/>
 
 </div>
 
