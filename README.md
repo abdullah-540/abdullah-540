@@ -50,7 +50,7 @@ owns: architecture → deploy → on-call
 
 <img width="100%" src="./assets/timeline.svg" alt="Career path from Associate Back-End Developer in 2022 to Senior Python Developer at Crypthon Technologies"/>
 
-<img width="100%" src="./assets/projects.svg" alt="Selected work: OMC Solutions, Laen Daen, Hunger Delights, Duty Free and RentAround"/>
+<img width="100%" src="./assets/projects.svg" alt="Selected work: OMC Solutions, Laen Daen, Hunger Delights, GrabnGo and RentAround"/>
 
 <br/>
 
