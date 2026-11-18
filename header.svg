@@ -1,30 +1,57 @@
-<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" fill="none" role="img" aria-label="Abdullah Shahid — Backend Architect, DevOps, Cloud Engineer">
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abdullah Shahid — Solutions Architect · Backend · Cloud Infrastructure">
   <defs>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#a855f7">
-        <animate attributeName="stop-color" values="#a855f7;#ec4899;#f97316;#a855f7" dur="7s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#ec4899">
-        <animate attributeName="stop-color" values="#ec4899;#f97316;#a855f7;#ec4899" dur="7s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#f97316">
-        <animate attributeName="stop-color" values="#f97316;#a855f7;#ec4899;#f97316" dur="7s" repeatCount="indefinite"/>
-      </stop>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111a2e"/>
     </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
   </defs>
 
-  <text x="400" y="92" text-anchor="middle"
-        font-family="'Segoe UI', 'Trebuchet MS', Verdana, sans-serif"
-        font-size="54" font-weight="800" letter-spacing="3"
-        fill="url(#nameGrad)">ABDULLAH SHAHID</text>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity="0.55"/>
 
-  <text x="400" y="132" text-anchor="middle"
-        font-family="'Courier New', monospace"
-        font-size="16" font-weight="600" letter-spacing="4"
-        fill="#94a3b8">BACKEND ARCHITECT &#183; DEVOPS &#183; CLOUD ENGINEER</text>
+  <!-- Left: identity -->
+  <g font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="64" y="104" font-size="18" font-weight="600" letter-spacing="4" fill="#38bdf8">HELLO, I'M</text>
+    <text x="62" y="162" font-size="56" font-weight="800" fill="#f1f5f9">Abdullah Shahid</text>
+    <rect x="64" y="182" width="88" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="224" font-size="22" font-weight="600" fill="#cbd5e1">Solutions Architect · Backend · Cloud Infrastructure</text>
+    <text x="64" y="256" font-size="17" fill="#94a3b8">I design and build platforms end to end — from system architecture to production.</text>
+  </g>
 
-  <line x1="270" y1="158" x2="530" y2="158" stroke="url(#nameGrad)" stroke-width="2.5" stroke-linecap="round">
-    <animate attributeName="x1" values="400;270;400" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="x2" values="400;530;400" dur="4s" repeatCount="indefinite"/>
-  </line>
+  <!-- Right: architecture motif (client → gateway → services → data) -->
+  <g font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="13" font-weight="600">
+    <g stroke="#334155" stroke-width="2" fill="none">
+      <path d="M884 150H930"/>
+      <path d="M1010 150H1030V86H1050"/>
+      <path d="M1030 150H1050"/>
+      <path d="M1030 150V214H1050"/>
+    </g>
+    <g fill="#38bdf8">
+      <circle cx="930" cy="150" r="3"/>
+      <circle cx="1050" cy="86" r="3"/>
+      <circle cx="1050" cy="150" r="3"/>
+      <circle cx="1050" cy="214" r="3"/>
+    </g>
+
+    <rect x="800" y="128" width="84" height="44" rx="8" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+    <text x="842" y="155" text-anchor="middle" fill="#cbd5e1">client</text>
+
+    <rect x="930" y="122" width="80" height="56" rx="8" fill="#0f172a" stroke="url(#accent)" stroke-width="2"/>
+    <text x="970" y="147" text-anchor="middle" fill="#e2e8f0">ingress</text>
+    <text x="970" y="164" text-anchor="middle" fill="#64748b" font-size="11">k8s</text>
+
+    <rect x="1050" y="66" width="96" height="40" rx="8" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+    <text x="1098" y="91" text-anchor="middle" fill="#cbd5e1">api · py</text>
+    <rect x="1050" y="130" width="96" height="40" rx="8" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+    <text x="1098" y="155" text-anchor="middle" fill="#cbd5e1">workers</text>
+    <rect x="1050" y="194" width="96" height="40" rx="8" fill="#0f172a" stroke="#475569" stroke-width="1.5"/>
+    <text x="1098" y="219" text-anchor="middle" fill="#cbd5e1">postgres</text>
+  </g>
 </svg>
