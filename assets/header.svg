@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Abdullah Shahid: Solutions Architect, Backend and Cloud Infrastructure">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b14"/><stop offset="1" stop-color="#0d1526"/></linearGradient>
+  <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#16213a" stroke-width="1"/></pattern>
+  <radialGradient id="glowC" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#22d3ee" stop-opacity=".28"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowV" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#c084fc" stop-opacity=".22"/><stop offset="1" stop-color="#c084fc" stop-opacity="0"/></radialGradient>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+  
+</defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="20" fill="url(#grid)" opacity=".6"/>
+<rect x=".5" y=".5" width="1199" height="359" rx="20" fill="none" stroke="#1e2a44"/>
+<circle cx="1040" cy="90" r="210" fill="url(#glowV)"/><circle cx="160" cy="300" r="260" fill="url(#glowC)"/>
+<g><rect x="64" y="58" width="236" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".4"/><circle cx="84" cy="74" r="5" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="84" cy="74" r="5" fill="none" stroke="#34d399"><animate attributeName="r" values="5;11" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.8s" repeatCount="indefinite"/></circle><text x="98" y="79" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#34d399" text-anchor="start" letter-spacing="0" >Open to architect roles</text></g>
+<text x="62" y="158" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="800" fill="#f1f5f9" text-anchor="start" letter-spacing="-1" >Abdullah Shahid</text>
+<rect x="64" y="178" width="120" height="5" rx="2.5" fill="url(#acc)"><animate attributeName="width" values="40;120;40" dur="6s" repeatCount="indefinite"/></rect>
+<text x="64" y="222" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700"><tspan fill="url(#acc)">Solutions Architect</tspan><tspan fill="#cbd5e1" font-weight="600">  ·  Backend  ·  Cloud Infrastructure</tspan></text>
+<text x="64" y="260" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400" fill="#8a9bb5" text-anchor="start" letter-spacing="0" >I design and build platforms end to end: system architecture,</text>
+<text x="64" y="284" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="400" fill="#8a9bb5" text-anchor="start" letter-spacing="0" >cloud infrastructure, APIs, and the monitoring that keeps them up.</text>
+<text x="64" y="324" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="500" fill="#5b6b86" text-anchor="start" letter-spacing="0" >$ python · fastapi · django · aws · kubernetes · react</text>
+<g stroke="#2a3a5c" stroke-width="2" fill="none"><path d="M880 182 H930"/><path d="M1026 182 H1052 V114 H1080"/><path d="M1026 182 H1080"/><path d="M1026 182 H1052 V250 H1080"/></g>
+<circle r="4" fill="#22d3ee"><animateMotion dur="1.6s" begin="0.00s" repeatCount="indefinite" path="M880 182 H930"/></circle>
+<circle r="4" fill="#818cf8"><animateMotion dur="2.2s" begin="0.35s" repeatCount="indefinite" path="M1026 182 H1052 V114 H1080"/></circle>
+<circle r="4" fill="#818cf8"><animateMotion dur="2.2s" begin="0.70s" repeatCount="indefinite" path="M1026 182 H1080"/></circle>
+<circle r="4" fill="#818cf8"><animateMotion dur="2.2s" begin="1.05s" repeatCount="indefinite" path="M1026 182 H1052 V250 H1080"/></circle>
+<rect x="790" y="160" width="90" height="44" rx="10" fill="#0f1a2e" stroke="#33456b" stroke-width="1.5"/>
+<text x="835.0" y="187" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#cbd5e1" text-anchor="middle" letter-spacing="0" >client</text>
+<rect x="930" y="160" width="96" height="44" rx="10" fill="#0f1a2e" stroke="url(#acc)" stroke-width="2"/>
+<text x="978.0" y="187" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#f1f5f9" text-anchor="middle" letter-spacing="0" >ingress</text>
+<rect x="1080" y="92" width="84" height="44" rx="10" fill="#0f1a2e" stroke="#33456b" stroke-width="1.5"/>
+<text x="1122.0" y="119" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#cbd5e1" text-anchor="middle" letter-spacing="0" >api</text>
+<rect x="1080" y="160" width="84" height="44" rx="10" fill="#0f1a2e" stroke="#33456b" stroke-width="1.5"/>
+<text x="1122.0" y="187" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#cbd5e1" text-anchor="middle" letter-spacing="0" >workers</text>
+<rect x="1080" y="228" width="84" height="44" rx="10" fill="#0f1a2e" stroke="#33456b" stroke-width="1.5"/>
+<text x="1122.0" y="255" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#cbd5e1" text-anchor="middle" letter-spacing="0" >postgres</text>
+<rect x="1066" y="76" width="112" height="210" rx="14" fill="none" stroke="#818cf8" stroke-opacity=".45" stroke-dasharray="5 5"/>
+<text x="1122" y="306" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="600" fill="#818cf8" text-anchor="middle" letter-spacing="0" >k8s · HPA</text>
+</svg>

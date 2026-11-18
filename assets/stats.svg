@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="4+ years in production, 5+ platforms shipped, leading FBR e-invoicing integration, end-to-end ownership">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b14"/><stop offset="1" stop-color="#0d1526"/></linearGradient>
+  <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#16213a" stroke-width="1"/></pattern>
+  <radialGradient id="glowC" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#22d3ee" stop-opacity=".28"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowV" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#c084fc" stop-opacity=".22"/><stop offset="1" stop-color="#c084fc" stop-opacity="0"/></radialGradient>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+  
+</defs>
+<rect width="1200" height="150" rx="20" fill="url(#bg)"/>
+
+<rect x=".5" y=".5" width="1199" height="149" rx="20" fill="none" stroke="#1e2a44"/>
+<rect x="24" y="22" width="273" height="106" rx="16" fill="#0f1a2e" stroke="#1e2a44"/>
+<rect x="24" y="22" width="4" height="106" rx="2" fill="#22d3ee"/>
+<text x="52" y="80" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"><tspan font-size="38" font-weight="800" fill="#22d3ee">4+</tspan><tspan dx="10" font-size="16" font-weight="700" fill="#f1f5f9">years</tspan></text>
+<text x="52.0" y="108" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#8a9bb5" text-anchor="start" letter-spacing="0" >shipping production systems</text>
+<rect x="317" y="22" width="273" height="106" rx="16" fill="#0f1a2e" stroke="#1e2a44"/>
+<rect x="317" y="22" width="4" height="106" rx="2" fill="#818cf8"/>
+<text x="345" y="80" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"><tspan font-size="38" font-weight="800" fill="#818cf8">5+</tspan><tspan dx="10" font-size="16" font-weight="700" fill="#f1f5f9">platforms</tspan></text>
+<text x="345.0" y="108" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#8a9bb5" text-anchor="start" letter-spacing="0" >fintech · retail · food · rentals</text>
+<rect x="610" y="22" width="273" height="106" rx="16" fill="#0f1a2e" stroke="#1e2a44"/>
+<rect x="610" y="22" width="4" height="106" rx="2" fill="#c084fc"/>
+<text x="638" y="80" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"><tspan font-size="38" font-weight="800" fill="#c084fc">FBR</tspan><tspan dx="10" font-size="16" font-weight="700" fill="#f1f5f9">integration</tspan></text>
+<text x="638.0" y="108" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#8a9bb5" text-anchor="start" letter-spacing="0" >leading gov e-invoicing</text>
+<rect x="903" y="22" width="273" height="106" rx="16" fill="#0f1a2e" stroke="#1e2a44"/>
+<rect x="903" y="22" width="4" height="106" rx="2" fill="#34d399"/>
+<text x="931" y="80" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif"><tspan font-size="38" font-weight="800" fill="#34d399">24/7</tspan><tspan dx="10" font-size="16" font-weight="700" fill="#f1f5f9">ownership</tspan></text>
+<text x="931.0" y="108" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#8a9bb5" text-anchor="start" letter-spacing="0" >architecture → on-call</text>
+</svg>
